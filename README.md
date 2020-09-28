@@ -13,7 +13,7 @@ It may not be vulnerable 100% You should Verify it manually too
 
 # Dependencies
 
-* Go should be installed 
+* Go lang should be installed 
 * GOPATH and GOBINPATH should set
 
 # Usage
