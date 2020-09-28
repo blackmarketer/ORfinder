@@ -3,9 +3,9 @@ ORfinder is a tool designed to detect open redirects vulnerabilities on websites
 
 # Installation
 
-git clone https://github.com/blackmarketer/ORfinder
-cd ORfinder
-mv ORfinder /usr/local/bin
+* git clone https://github.com/blackmarketer/ORfinder
+* cd ORfinder
+* mv ORfinder /usr/local/bin
 
 # Dependencies
 
