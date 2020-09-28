@@ -9,8 +9,8 @@ ORfinder is a tool designed to detect open redirects vulnerabilities on websites
 
 # Dependencies
 
-Go should be installed 
-GOPATH and GOBINPATH should set
+* Go should be installed 
+* GOPATH and GOBINPATH should set
 
 # Usage
 
