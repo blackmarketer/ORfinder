@@ -13,12 +13,4 @@ It may not be vulnerable 100% You should Verify it manually too
 
 # Dependencies
 
-* Go lang should be installed 
-* GOPATH and GOBINPATH should set
-
-# Usage
-
-* To scan a website 
-```
-ORfind <domain.com>
-```
+* 
